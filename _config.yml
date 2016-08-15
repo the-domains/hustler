@@ -1,0 +1,14 @@
+layout_spectrum: 0.006053033517673612
+typography_spectrum: 0.08064390276558697
+color:
+  brandStrength: 0.9895626504439861
+  lightness: 0.5677418853156269
+  saturation: 0.5120133543387055
+  rhythmicContrast: 0.6724671197589487
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: hustler
