@@ -1,16 +1,16 @@
-typography_spectrum: 0.08064390276558697
+typography_spectrum: 0.3932036096230149
 color:
-  brandStrength: 0.9895626504439861
-  lightness: 0.5677418853156269
-  saturation: 0.5120133543387055
-  rhythmicContrast: 0.6724671197589487
+  brandStrength: 0.19356627785600722
+  lightness: 0.954221777850762
+  saturation: 0.43022329173982143
+  rhythmicContrast: 0.15721021289937198
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.006053033517673612
+    - '#121218'
+    - '#98978D'
+    - '#282826'
+    - '#6F695D'
+    - '#424545'
+layout_spectrum: 0.019368130713701248
 name: hustler
 navigation:
   - name: Hustler Home
