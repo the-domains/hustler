@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://io9.gizmodo.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459
 title: How Universal Basic Income Will Save Us From the Robot Uprising
-datePublished: '2016-08-17T05:52:23.034Z'
-dateModified: '2016-08-17T05:50:56.126Z'
+datePublished: '2016-08-17T05:52:23.047Z'
+dateModified: '2016-08-17T05:50:08.348Z'
 via: {}
 starred: false
 sourcePath: >-
