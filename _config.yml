@@ -19,5 +19,8 @@ navigation:
   - name: Flight plan
     id: 4b28447e-3b3f-4a1b-9611-8f306f2acbc9
     type: content
+  - name: Get in Touch
+    url: 'mailto:hello@hustler.global'
+    type: external
 title: Do The Hustler
 description: A Bustling Aggregator for Go-Getters
