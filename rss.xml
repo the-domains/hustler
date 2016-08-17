@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hustler]]></title>
-        <description><![CDATA[hustler]]></description>
+        <title><![CDATA[Do The Hustler]]></title>
+        <description><![CDATA[Do The Hustler]]></description>
         <link>https://thegrid.ai/hustler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 05:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 05:52:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hustler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Professor Pranksman fools his students with a TA powered by IBM's Watson]]></title>
+            <description><![CDATA[<article><h1>Professor Pranksman fools his students with a TA powered by IBM's Watson</h1><p>Ashok Goel, a computer science professor at Georgia Institute of Technology, recently pulled a huge prank on his students: he gave them a robot for a teaching assistant. "Jill Watson" did regular TA work, like remind students of due dates and answer questions, all over email.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba8a82ef45976f0d329b0c6bb38c14121157379b.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/5/6/11612520/ta-powered-by-ibm-watson</link>
+            <guid isPermaLink="false">f8ceaf4a-dbde-48e6-ba1f-a2c151ca7feb</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Digital Face Manipulation Means You Can't Trust Video Anymore]]></title>
+            <description><![CDATA[<article><h1>New Digital Face Manipulation Means You Can't Trust Video Anymore</h1><p>18,514 0 What if you could alter a video of anyone to emulate facial and mouth movements that never existed in the source video-by yourself, at home, using a cheap webcam? Meet . Using RGB input from one video and mapped pixels from a second video, manipulating someone's face-including distinct facial and mouth movements-has become incredibly easy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/449629137bb1b52fbe7e5fe6b15277e7/noop.jpg?input=http%3A%2F%2Fsingularityhub.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fface-manipulation-1-e1463097200150.jpg"></article>]]></description>
+            <link>http://singularityhub.com/2016/05/13/new-digital-face-manipulation-means-you-cant-trust-video-anymore/</link>
+            <guid isPermaLink="false">e8b1016d-9ff7-4683-8c4e-b41e27a036e9</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Universal Basic Income Will Save Us From the Robot Uprising]]></title>
+            <description><![CDATA[<article><h1>How Universal Basic Income Will Save Us From the Robot Uprising</h1><p>Robots are poised to eliminate millions of jobs over the coming decades. We have to address the coming epidemic of "technological unemployment" if we're to avoid crippling levels of poverty and societal collapse. Here's how a guaranteed basic income will help - and why it's absolutely inevitable.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28ecf69cde44ffc2dcee52cfbdbab16c/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--XF4CNpVr--%2Fc_fill%2Cfl_progressive%2Cg_center%2Ch_450%2Cq_80%2Cw_800%2Fbxupcy5sgonggp7grkxs.jpg"></article>]]></description>
+            <link>http://io9.gizmodo.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459</link>
+            <guid isPermaLink="false">69bc21e6-d2ca-45cc-abe3-81c34012d39d</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch Lytro Change Cinematography Forever]]></title>
+            <description><![CDATA[<article><h1>Watch Lytro Change Cinematography Forever</h1><p>The Lytro Cinema Camera could be the most groundbreaking development in cinematography since color motion picture film. We go "in-depth" with the entire Lytro system in this exclusive video. Full article: http://nofilmschool.com/2016/04/lytro-cinema-camera-cinematography-demo From No Film School's complete coverage of NAB 2016: http://nofilmschool.com/tags/nab-2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13f840b14d40a2e61579213c5e3069bf/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F4qXE4sA-hLQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=4qXE4sA-hLQ</link>
+            <guid isPermaLink="false">1d3f7d24-7219-4e8c-8444-5f676b0976cc</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI doctors will become 'as ubiquitous as stethoscopes']]></title>
+            <description><![CDATA[<article><h1>AI doctors will become 'as ubiquitous as stethoscopes'</h1><p>From helping humans live longer and hacking our performance, to repairing the body and understanding the brain, [i]WIRED Health will hear from the innovators transforming this critical sector. Read all of our WIRED Health coverage here.[/i] One of the biggest problems facing doctors isn't patients' injuries or illnesses - it's the sheer quantity data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e336b82a226279b123fdf36e60b98900/noop.jpg?input=http%3A%2F%2Fi.imgur.com%2F0zsD8q6.jpg"></article>]]></description>
+            <link>http://www.wired.co.uk/article/kyu-rhee-ibm-watson-ai-doctor</link>
+            <guid isPermaLink="false">c98c159c-c8f3-4760-85a8-ec2186ad8b07</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Universal Basic Income Will Save Us From the Robot Uprising]]></title>
+            <description><![CDATA[<article><h1>How Universal Basic Income Will Save Us From the Robot Uprising</h1><p>Robots are poised to eliminate millions of jobs over the coming decades. We have to address the coming epidemic of "technological unemployment" if we're to avoid crippling levels of poverty and societal collapse. Here's how a guaranteed basic income will help - and why it's absolutely inevitable.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28ecf69cde44ffc2dcee52cfbdbab16c/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--XF4CNpVr--%2Fc_fill%2Cfl_progressive%2Cg_center%2Ch_450%2Cq_80%2Cw_800%2Fbxupcy5sgonggp7grkxs.jpg"></article>]]></description>
+            <link>http://io9.gizmodo.com/how-universal-basic-income-will-save-us-from-the-robot-1653303459</link>
+            <guid isPermaLink="false">99b5e059-08f3-46f8-a8fd-70ec640a55c6</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[honda commissions series of autonomous vehicles designed for crossing the world]]></title>
+            <description><![CDATA[<article><h1>honda commissions series of autonomous vehicles designed for crossing the world</h1><p>honda commissions series of autonomous vehicles designed for crossing the world honda commissions series of autonomous vehicles designed for crossing the world all images courtesy of petr krejci commissioned by japanese carmaker honda, barber osgerby's design firm map project office and mori inc.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff2f2e067d2bc9b080bbe7dcc8955b98/noop.jpg?input=http%3A%2F%2Fwww.designboom.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fhonda-map-and-mori-great-journey-models-autonomous-vehicles-designboom-01-818x545.jpg"></article>]]></description>
+            <link>http://www.designboom.com/technology/honda-map-project-office-mori-great-journey-models-autonomous-vehicles-04-27-2016/</link>
+            <guid isPermaLink="false">ffbd6c5e-5329-45e3-b8db-5b13e35c8875</guid>
+            <pubDate>Wed, 17 Aug 2016 05:52:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk: New version of Tesla Autopilot mind-blowing]]></title>
             <description><![CDATA[<article><h1>Elon Musk: New version of Tesla Autopilot mind-blowing</h1><p>Despite federal investigations into a fatal Florida crash, Tesla CEO Elon Musk this week professed his deep faith in the rapid adoption of fully autonomous driving. Musk told investors Tesla was making significant strides in honing its Autopilot driver-assist system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c6d342c9bd758d3390270549937d07f/noop.jpg?input=http%3A%2F%2Fwww.siliconbeat.com%2Fwp-content%2Fuploads%2F2014%2F07%2Felonmusk.jpg"></article>]]></description>
@@ -26,41 +75,6 @@
             <link>https://www.theguardian.com/science/2016/aug/07/nasa-secret-art-studio-rocket-science-jet-propulsion-laboratory?CMP=oth_b-aplnews_d-3</link>
             <guid isPermaLink="false">89343c61-a72a-4636-bd1d-5bad46d3055f</guid>
             <pubDate>Wed, 17 Aug 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Welcome to the #bionic future. 10-year-old Tilly testing out the @DeusEx Adam Jensen arm. #Amputeespic.twitter.com/qYTcG6Owld" src="https://pbs.twimg.com/media/Cny_Vp7WgAA-XlZ.jpg:large">]]></description>
-            <link>https://twitter.com/openbionics/status/755690552889344000?lang=en</link>
-            <guid isPermaLink="false">a3e3e1cf-7a48-465f-a222-051af0b7ff8c</guid>
-            <pubDate>Wed, 17 Aug 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space]]></title>
-            <description><![CDATA[<article><h1>Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space</h1><p>Back in 2010, San Francisco-based photographer Christopher Michel received a once-in-a-lifetime photo assignment from the US Navel Institute: to ride in the back seat of a U-2 spy plane at the "edge of space." At the plane's cruising and intelligence-gathering altitude of 70,000 feet above the ground, temperatures outside the plane fall to 70 degrees below zero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f6c0633f5a485f90dde99e96cd653a67f86bd6.jpg"></article>]]></description>
-            <link>http://petapixel.com/2015/05/24/assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-edge-of-space/</link>
-            <guid isPermaLink="false">e126d24a-ccdc-45f6-a7fb-cca1a3e537e5</guid>
-            <pubDate>Mon, 15 Aug 2016 07:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
-            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
-            <guid isPermaLink="false">c7623f92-43f0-4ef9-a2fc-f3d57757a77e</guid>
-            <pubDate>Mon, 15 Aug 2016 07:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away]]></title>
-            <description><![CDATA[<article><h1>My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away</h1><p>Bear with me on this one. Let's say it's summer, end of August to be more precise. I live in Romania, I am a billionaire, and, of course, teleportation is possible. To make it easier for you to calculate (if you want to), use the Eastern European time (UTC+2).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d514394de715e2d49831dc9410ecb72b24380f6d.jpg"></article>]]></description>
-            <link>http://travelaway.me/24-hours-teleporting-billionaire/</link>
-            <guid isPermaLink="false">95d26ef9-838f-475e-a5ba-b2bfcfd0d0d3</guid>
-            <pubDate>Mon, 15 Aug 2016 07:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
-            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
-            <guid isPermaLink="false">5dc792d3-9b2f-4f48-b2eb-910e3184a195</guid>
-            <pubDate>Mon, 15 Aug 2016 07:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
