@@ -23,17 +23,15 @@ description: >-
   memorabilia.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://newatlas.com/apollo-11-flight-plans/44669/'
 title: Flight plan reproductions to put a touch of Apollo 11 on your coffee table
-datePublished: '2016-08-17T05:27:48.234Z'
-dateModified: '2016-08-17T05:26:54.227Z'
+datePublished: '2016-08-17T05:31:43.544Z'
+dateModified: '2016-08-17T05:31:42.323Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-17-flight-plan-reproductions-to-put-a-touch-of-apollo-11-on-you.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: flight-plan-reproductions-to-put-a-touch-of-apollo-11-on-you/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
